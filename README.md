@@ -1,2 +1,0 @@
-# kuberikoi
-Job Application Bot 
